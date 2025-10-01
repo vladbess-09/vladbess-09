@@ -8,6 +8,27 @@
   </a>
 </div>
 
+### Про себя:
+- Регулярно решаю алгоритмические задачи на LeetCode
+- Приобретаю новые навыки путем написния pet-проектов
+- Имею высшее техническое образование
+- Изучал в ВУЗе курс по искуственному интелекту
+- Активно ищу работу
+
+### Навыки 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+          
+          
+          
+          
+          
+
+          
 <!--
 **vladbess-09/vladbess-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
