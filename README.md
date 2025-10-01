@@ -1,7 +1,12 @@
 <div id="header" align="center">
-  <h1>Hi, i am Vlad</h1>
+  <h1>Привет, я Влад</h1>
+  <h3>Backend-разработчик</h3>
 </div>
-## Hi there 👋
+<div id="socials" align="center">
+  <a href="https://t.me/BESSOVSKOEotrodie">
+    <lmg src="https://img.shields.io/badge/Telegram-blue?style=for-the-badgelogo=TelegramlogoColor=white" alt=Telegram/>
+  </a>
+</div>
 
 <!--
 **vladbess-09/vladbess-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
