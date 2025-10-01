@@ -4,7 +4,7 @@
 </div>
 <div id="socials" align="center">
   <a href="https://t.me/BESSOVSKOEotrodie">
-    <lmg src="https://img.shields.io/badge/Telegram-blue?style=for-the-badgelogo=TelegramlogoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badgelogo=TelegramlogoColor=white" alt="Telegram" />
   </a>
 </div>
 
