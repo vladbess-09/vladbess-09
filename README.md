@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <h1>Hi, i am Vlad</h1>
+</div>
 ## Hi there 👋
 
 <!--
